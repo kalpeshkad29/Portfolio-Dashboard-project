@@ -1,1 +1,5 @@
 # Portfolio-Dashboard-project
+1.project title - portfolio dashboard A dynamic,interactive data visualisation.
+2.Purpose - portfolio analytics dashboard is visually engaging and analytical power BI report design to understand sales.
+3.Tech Stack - Power BI desktop - main data visualisation tool used for report creation, Power Query - data transformation and cleaning for reshaping the data, DAX - used for calculated measures,dynamic visuals and contributed logic, Data modeling- relationships established among tables, MSSQL -  for performing differnt queries
+4.screenshots - 
